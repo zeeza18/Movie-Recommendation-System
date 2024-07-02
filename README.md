@@ -47,3 +47,30 @@ Once the environment is set up and libraries are installed, you can run the appl
 
 ```bash
 streamlit run app.py
+
+## Dataset
+The dataset used for this project is the TMDB movie metadata. You can download it from the following link:
+
+[TMDB Movie Metadata](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
+
+## Concepts
+### Cosine Similarity
+Cosine similarity is a measure of similarity between two non-zero vectors of an inner product space. It is defined as the cosine of the angle between the vectors. In the context of a recommendation system, it helps in measuring how similar two movies are based on their features.
+
+### Vectorization
+Vectorization is the process of converting text data into numerical vectors. This is crucial for performing mathematical operations on text data, which is common in recommendation systems.
+
+## Images
+
+![eg3](uploads/Screenshot 2024-07-02 144241.png)
+
+![eg2](uploads/Screenshot 2024-07-02 144317.png)
+
+![eg1](uploads/Screenshot 2024-07-02 144357.png)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgment
+Special thanks to Campus X for providing guidance and resources throughout the development of this project.
+
