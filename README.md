@@ -63,11 +63,11 @@ Vectorization is the process of converting text data into numerical vectors. Thi
 
 ## Images
 
-![eg3]("uploads/Screenshot 2024-07-02 144241.png")
+![egone]("uploads/one.png")
 
-![eg2]("uploads/Screenshot 2024-07-02 144317.png")
+![egtwo]("uploads/two.png")
 
-![eg1]("uploads/Screenshot 2024-07-02 144357.png")
+![egthree]("uploads/three.png")
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
