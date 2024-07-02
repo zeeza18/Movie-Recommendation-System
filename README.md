@@ -47,6 +47,7 @@ Once the environment is set up and libraries are installed, you can run the appl
 
 ```bash
 streamlit run app.py
+ ```
 
 ## Dataset
 The dataset used for this project is the TMDB movie metadata. You can download it from the following link:
